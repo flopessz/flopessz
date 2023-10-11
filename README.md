@@ -1,5 +1,6 @@
-## Oi eu sou o Felipe Lopes de Moura, criador de conteúdo de programação e tecnologia!
+## Olá Bem-Vindo ao meu perfil do GitHub, eu sou Felipe Lopes de Moura
  🟢 🟠 🔴 🟢 🔵
+
 Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e interesse na área de TI
 
 - 🔭 Atualmente procuro trabalho em Programação, desenvolviento, ti e dados
