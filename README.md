@@ -8,6 +8,7 @@ Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e
 - 👯 Estou procurando colaborar em Banco de Dados
 - 📫 Como entrar em contato comigo: Email (felipelopesdemoura@gmail.com), Celular e WhatsApp (11996950910)
 - ⚡ Cursando: Ciência da Computação (USJT) (4 Semestre) (Previsão conclusão 2025)
+- Meu currículo: <a href="https://instagram.com/lopess_.f">Felipe Lopes de Moura</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
