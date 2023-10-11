@@ -3,7 +3,7 @@
 
 Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e interesse na área de TI
 
-- 🔭 Atualmente procuro trabalho em Programação, desenvolviento, ti e dados
+- 🔭 Atualmente procuro trabalho em Programação, desenvolvimento, ti e dados
 - 🌱 Atualmente estou aprendendo Big Data
 - 👯 Estou procurando colaborar em Banco de Dados
 - 📫 Como entrar em contato comigo: Email (felipelopesdemoura@gmail.com), Celular e WhatsApp (11996950910)
