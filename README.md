@@ -20,7 +20,7 @@ Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e
   <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
 </div>
 
- ##
+##
  
 <div> 
   <a href = "mailto:felipelopesdemoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
