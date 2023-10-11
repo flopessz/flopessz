@@ -1,6 +1,12 @@
 ## Oi eu sou o Felipe Lopes de Moura, criador de conteúdo de programação e tecnologia!
-
+ 🟢 🟠 🔴 🟢 🔵
 Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e interesse na área de TI
+
+- 🔭 Atualmente procuro trabalho em Programação, desenvolviento, ti e dados
+- 🌱 Atualmente estou aprendendo Big Data
+- 👯 Estou procurando colaborar em Banco de Dados
+- 📫 Como entrar em contato comigo: Email (felipelopesdemoura@gmail.com), Celular e WhatsApp (11996950910)
+- ⚡ Cursando: Ciência da Computação (USJT)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
