@@ -3,11 +3,10 @@
 
 Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e interesse na área de TI
 
-- 🔭 Atualmente procuro trabalho em Programação, desenvolvimento, ti e dados
-- 🌱 Atualmente estou aprendendo Big Data
-- 👯 Estou procurando colaborar em Banco de Dados
+- 🔭 Atualmente procuro trabalho em Programação, desenvolvimento, ti ou dados.
+- 👯 Estou procurando colaborar em Desenvolvimento.
 - 📫 Como entrar em contato comigo: Email (felipelopesdemoura@gmail.com), Celular e WhatsApp (11996950910)
-- ⚡ Cursando: Ciência da Computação (USJT) (4 Semestre) (Previsão conclusão 2025)
+- ⚡ Cursando: Ciência da Computação (USJT) (6 Semestre) (Previsão conclusão 2025)
 - Meu currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
 
 <div style="display: inline_block"><br>
