@@ -18,9 +18,9 @@ Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LUA" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
+  <img align="center" alt="LUA" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
 </div>
 
 ##
