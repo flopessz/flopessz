@@ -5,11 +5,8 @@
 
 ## 📫 Sobre mim
 Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse na área de TI
-
 - 🔭 Atualmente procuro trabalho em Programação, desenvolvimento, ti ou dados.
 - 👯 Estou procurando colaborar em Desenvolvimento.
-- 📫 Como entrar em contato comigo: Email (felipelopesdemoura@gmail.com), Celular e WhatsApp (11996950910)
-- ⚡ Cursando: Ciência da Computação (USJT) (6 Semestre) (Previsão conclusão 2025)
 - Meu currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
 
 ## 📫 Contato
@@ -28,6 +25,16 @@ Linkedin (FELIPE LOPES DE MOURA)
 </a>
 WhatsApp/Telefone (+55 11 99695-0910)
 <br>
+
+## 📫 Formações
+  Ensino Fudamental 1/2 e Médio
+    Colégio Espaço Potencial - Objetivo Cotia
+    Conclusão 2021
+  
+  Ensino Superior (Bacharelado) 
+    Curso: Ciência da Computação 
+    Universidade: São Judas Tadeu, Campus Butantã
+    Conclusão: 12/2025 (6 Semestre Atualmente)
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://skillicons.dev)<br>
