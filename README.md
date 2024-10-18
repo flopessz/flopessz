@@ -2,7 +2,7 @@
 Esse é meu perfil do GitHub
  🟢 🟠 🔴 🟢 🔵
 
-Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e interesse na área de TI
+Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse na área de TI
 
 - 🔭 Atualmente procuro trabalho em Programação, desenvolvimento, ti ou dados.
 - 👯 Estou procurando colaborar em Desenvolvimento.
