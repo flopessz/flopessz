@@ -4,7 +4,8 @@
 Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse na área de TI
 - 🔭 Atualmente procuro trabalho em Programação, desenvolvimento, ti ou dados.
 - 👯 Estou procurando colaborar em Desenvolvimento.
-- Meu currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
+- Meu Currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
+- Meu Site/Portfolio: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Acessar</a>
 
 ## 📫 Contato
 <a href="mailto:felipelopesdemoura@gmail.com">
