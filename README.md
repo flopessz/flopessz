@@ -1,6 +1,8 @@
 ## Olá, eu sou Felipe Lopes de Moura
-
-🟢 🟠 🔴 🟢 🔵
+<div style="display: flex; justify-content: space-between;">
+  <h1>Olá, eu sou Felipe Lopes de Moura</h1>
+  <span>🟢 🟠 🔴 🟢 🔵</span>
+</div>
 
 ## 📫 Sobre mim
 Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse na área de TI
