@@ -1,4 +1,5 @@
-## Olá Bem-Vindo ao meu perfil do GitHub, eu sou Felipe Lopes de Moura
+## Olá, eu sou Felipe Lopes de Moura
+## Esse é meu perfil do GitHub
  🟢 🟠 🔴 🟢 🔵
 
 Sou apaixonado em coisas de programação e tecnologia, tenho muita facilidade e interesse na área de TI
