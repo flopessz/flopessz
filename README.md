@@ -18,7 +18,7 @@ Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse
 </div>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://skillicons.dev)<br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,react,next)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,react,next)](https://skillicons.dev)<br>
