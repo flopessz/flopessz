@@ -28,6 +28,21 @@ Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse
   </a>
 </div>
 
+<a href="mailto:felipelopesdemoura@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  Email (felipelopesdemoura@gmail.com)
+</a>
+
+<a href="https://www.linkedin.com/in/seu-perfil">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  LinkedIn
+</a>
+
+<a href="https://github.com/seu-usuario">
+  <img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  GitHub
+</a>
+
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://skillicons.dev)<br>
 
