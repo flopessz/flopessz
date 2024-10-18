@@ -35,7 +35,7 @@ Ensino Superior (Bacharelado)
 - Conclusão: 12/2025 (6 Semestre Atualmente)
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)]<br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,react,next)](https://skillicons.dev)<br>
