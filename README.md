@@ -27,14 +27,14 @@ WhatsApp/Telefone (+55 11 99695-0910)
 <br>
 
 ## 📫 Formações
-  Ensino Fudamental 1/2 e Médio
-    Colégio Espaço Potencial - Objetivo Cotia
-    Conclusão 2021
+Ensino Fudamental 1/2 e Médio
+- Colégio Espaço Potencial - Objetivo Cotia
+- Conclusão: 12/2021
   
-  Ensino Superior (Bacharelado) 
-    Curso: Ciência da Computação 
-    Universidade: São Judas Tadeu, Campus Butantã
-    Conclusão: 12/2025 (6 Semestre Atualmente)
+Ensino Superior (Bacharelado) 
+- Curso: Ciência da Computação 
+- Universidade: São Judas Tadeu, Campus Butantã
+- Conclusão: 12/2025 (6 Semestre Atualmente)
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://skillicons.dev)<br>
