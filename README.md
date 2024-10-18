@@ -13,7 +13,7 @@ Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse
 - Meu currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
 
 ## 📫 Contato
-<div style="display: grid;"> 
+<div style="display: flex; flex-direction: column;"> 
   <a href = "mailto:felipelopesdemoura@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     <span>Email (felipelopesdemoura@gmail.com)</span>
