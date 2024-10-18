@@ -11,16 +11,16 @@ Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse
 - Meu currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,c,php)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,sql,css)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,react,next)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
-
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+<div> 
+  <a href = "mailto:felipelopesdemoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-lopes-de-moura-296936246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Next" height="40" width="40"  
@@ -33,12 +33,4 @@ Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse
   <img align="center" alt="LUA" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png">
   <img align="center" alt="SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
-</div>
-
-##
- 
-<div> 
-  <a href = "mailto:felipelopesdemoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-lopes-de-moura-296936246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/lopess_.f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
