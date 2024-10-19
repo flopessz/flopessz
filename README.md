@@ -1,9 +1,9 @@
 ## Olá, eu sou Felipe Lopes de Moura 
 🟢 🟠 🔴 🟢 🔵
 
-Sou apaixonado em programação e tecnologia, tenho muita facilidade e interesse na área de TI
-- 🔭 Atualmente procuro trabalho em Programação, desenvolvimento, ti ou dados.
-- 👯 Estou procurando colaborar em Desenvolvimento.
+Sou uma pessoa da área de TI, tenho facilidade em programação, tecnologia e gerenciamento de dados, tenho
+experiência em linguagens tais como: Python, Java, JavaScript, LUA. Experiência na parte de criação de interface
+gráfica, programação de servidor SQL, redes e conhecimento em algumas linguagens de marcação.
 - Meu Currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
 - Meu Site/Portfolio: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Acessar</a>
 
