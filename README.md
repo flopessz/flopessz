@@ -38,4 +38,4 @@ Ensino Superior (Bacharelado)
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://my-curriculum-versel.dev)<br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,react,next,nodejs)](https://my-curriculum-versel.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,react,next,nodejs,tailwind)](https://my-curriculum-versel.dev)<br>
