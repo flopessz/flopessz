@@ -4,8 +4,8 @@
 Sou uma pessoa da área de TI, tenho facilidade em programação, tecnologia e gerenciamento de dados, tenho
 experiência em linguagens tais como: Python, Java, JavaScript, LUA. Experiência na parte de criação de interface
 gráfica, programação de servidor SQL, redes e conhecimento em algumas linguagens de marcação.
-- Meu Currículo: <a href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
-- Meu Site/Portfolio: <a href="https://my-curriculum-three.vercel.app/">Acessar</a>
+- Meu Currículo: <a target="_blank" href="https://github.com/flopessz/meucurriculo/blob/main/Curr%C3%ADculo-FelipeLopesDeMoura.pdf">Felipe Lopes de Moura</a>
+- Meu Site/Portfolio: <a target="_blank" href="https://my-curriculum-three.vercel.app/">Acessar</a>
 
 ## 📫 Contato
 <a href="mailto:felipelopesdemoura@gmail.com">
