@@ -1,4 +1,4 @@
-## Olá, eu sou Felipe Lopes de Moura 
+## Olá, me chamo Felipe Lopes de Moura 
 🟢 🟠 🔴 🟢 🔵
 
 Sou uma pessoa da área de TI, tenho facilidade em programação, tecnologia e gerenciamento de dados, tenho
