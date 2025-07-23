@@ -32,7 +32,7 @@ Ensino Fudamental 1/2 e Médio
 Ensino Superior (Bacharelado) 
 - Curso: Ciência da Computação 
 - Universidade: São Judas Tadeu, Campus Butantã
-- Conclusão: 12/2025 (6 Semestre Atualmente)
+- Conclusão: 12/2025 (8 Semestre Atualmente)
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://my-curriculum-versel.dev)<br>
