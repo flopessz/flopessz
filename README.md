@@ -12,21 +12,16 @@ gráfica, programação de servidor SQL, redes e conhecimento em algumas linguag
 - Meu Site/Portfolio: <a target="_blank" href="https://portfolio-felipe-lopes.vercel.app/">Acessar</a>
 
 ## 📫 Contato
+
 <a href="mailto:felipelopesdemoura@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-Email (felipelopesdemoura@gmail.com)
-<br>
 <a href="https://www.linkedin.com/in/felipe-lopes-de-moura-296936246" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-Linkedin (FELIPE LOPES DE MOURA)
-<br>
 <a href="https://wa.me/5511996950910?text=Ola%20Felipe!%20Tudo%20bem?%20Me%20interessei%20no%20seu%20curriculo,%20podemos%20conversar?" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-WhatsApp/Telefone (+55 11 99695-0910)
-<br>
 
 ## 📫 Formações
 Ensino Fudamental 1/2 e Médio
