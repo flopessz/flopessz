@@ -1,9 +1,10 @@
+🟢 🟠 🔴 🟢 🔵
+<br>
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGIoTic1Yjxtg/profile-displaybackgroundimage-shrink_350_1400/B4DZg9cTdtHAAY-/0/1753377487898?e=1756339200&v=beta&t=fs0_CS-1DnXGEJeuDIVjFUt6Rzu5Ru2VEG4d93-5Zbk" alt="Software Developer">
 </div>
 
 ## Olá, me chamo Felipe Lopes de Moura 
-🟢 🟠 🔴 🟢 🔵
 
 Sou uma pessoa da área de TI, tenho facilidade em programação, tecnologia e gerenciamento de dados, tenho
 experiência em linguagens tais como: Python, Java, JavaScript, LUA. Experiência na parte de criação de interface
