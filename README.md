@@ -24,14 +24,14 @@ gráfica, programação de servidor SQL, redes e conhecimento em algumas linguag
 </a>
 
 ## 📫 Formações
-Ensino Fudamental 1/2 e Médio
-- Colégio Espaço Potencial - Objetivo Cotia
-- Conclusão: 12/2021
-  
 Ensino Superior (Bacharelado) 
 - Curso: Ciência da Computação 
 - Universidade: São Judas Tadeu, Campus Butantã
 - Conclusão: 12/2025 (8 Semestre Atualmente)
+
+Ensino Fudamental e Médio
+- Colégio Espaço Potencial - Objetivo
+- Conclusão: 12/2021
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,lua,typescript)](https://my-curriculum-versel.dev)<br>
