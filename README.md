@@ -9,6 +9,7 @@
 Sou Felipe Lopes de Moura, profissional da área de Tecnologia da Informação, com sólida experiência em 
 desenvolvimento de software e gerenciamento de dados. Tenho facilidade em programação e já atuei com 
 diversas linguagens, incluindo Python, Java, JavaScript e TypeScript.
+<br>
 Possuo experiência prática no desenvolvimento de interfaces gráficas, implementação e manutenção de 
 servidores SQL, redes de computadores e uso de frameworks modernos como React, Next.js e 
 Node.js. Estou sempre em busca de novos desafios que me permitam aprimorar minhas habilidades 
