@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=](https://media.licdn.com/dms/image/v2/D4D16AQG8FqIUBYqbKA/profile-displaybackgroundimage-shrink_350_1400/B4DZg44zHiHsAc-/0/1753301071281?e=1756339200&v=beta&t=AIjJFQEGADbQ-bT5qZ_6adLAqBA6aV2Z0x9PJnr4ReA)" alt="Software Developer">
+</div>
+
 ## Olá, me chamo Felipe Lopes de Moura 
 🟢 🟠 🔴 🟢 🔵
 
