@@ -22,7 +22,7 @@ Email (felipelopesdemoura@gmail.com)
 </a>
 Linkedin (FELIPE LOPES DE MOURA)
 <br>
-<a href="https://wa.me/5511996950910" target="_blank">
+<a href="https://wa.me/5511996950910?text=Ola%20Felipe!%20Tudo%20bem?%20Me%20interessei%20no%20seu%20curriculo,%20podemos%20conversar?" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 WhatsApp/Telefone (+55 11 99695-0910)
