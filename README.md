@@ -6,9 +6,14 @@
 
 ## Olá, me chamo Felipe Lopes de Moura 
 
-Sou uma pessoa da área de TI, tenho facilidade em programação, tecnologia e gerenciamento de dados, tenho
-experiência em linguagens tais como: Python, Java, JavaScript, LUA. Experiência na parte de criação de interface
-gráfica, programação de servidor SQL, redes e conhecimento em algumas linguagens de marcação.
+Sou Felipe Lopes de Moura, profissional da área de Tecnologia da Informação, com sólida experiência em 
+desenvolvimento de software e gerenciamento de dados. Tenho facilidade em programação e já atuei com 
+diversas linguagens, incluindo Python, Java, JavaScript e TypeScript.
+Possuo experiência prática no desenvolvimento de interfaces gráficas, implementação e manutenção de 
+servidores SQL, redes de computadores e uso de frameworks modernos como React, Next.js e 
+Node.js. Estou sempre em busca de novos desafios que me permitam aprimorar minhas habilidades 
+técnicas e contribuir com soluções eficientes e inovadoras.
+
 - Meu Currículo: <a target="_blank" href="https://github.com/flopessz/portfolio-felipe-lopes/blob/main/public/curriculo.pdf">Felipe Lopes de Moura</a>
 - Meu Site/Portfolio: <a target="_blank" href="https://portfolio-felipe-lopes.vercel.app/">Acessar</a>
 
