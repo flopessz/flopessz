@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG8FqIUBYqbKA/profile-displaybackgroundimage-shrink_350_1400/B4DZg44zHiHsAc-/0/1753301071281?e=1756339200&v=beta&t=AIjJFQEGADbQ-bT5qZ_6adLAqBA6aV2Z0x9PJnr4ReA" alt="Software Developer">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGIoTic1Yjxtg/profile-displaybackgroundimage-shrink_350_1400/B4DZg9cTdtHAAY-/0/1753377487898?e=1756339200&v=beta&t=fs0_CS-1DnXGEJeuDIVjFUt6Rzu5Ru2VEG4d93-5Zbk" alt="Software Developer">
 </div>
 
 ## Olá, me chamo Felipe Lopes de Moura 
