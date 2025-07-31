@@ -4,11 +4,12 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGIoTic1Yjxtg/profile-displaybackgroundimage-shrink_350_1400/B4DZg9cTdtHAAY-/0/1753377487898?e=1756339200&v=beta&t=fs0_CS-1DnXGEJeuDIVjFUt6Rzu5Ru2VEG4d93-5Zbk" alt="Software Developer">
 </div>
 
-## Olá, me chamo Felipe Lopes de Moura 
+## Olá, me chamo Felipe 
 
-Sou Felipe Lopes de Moura, profissional da área de Tecnologia da Informação, com sólida experiência em 
+Sou um profissional da área de Tecnologia da Informação, com sólida experiência em 
 desenvolvimento de software e gerenciamento de dados. Tenho facilidade em programação e já atuei com 
 diversas linguagens, incluindo Python, Java, JavaScript e TypeScript.
+<br>
 <br>
 Possuo experiência prática no desenvolvimento de interfaces gráficas, implementação e manutenção de 
 servidores SQL, redes de computadores e uso de frameworks modernos como React, Next.js e 
